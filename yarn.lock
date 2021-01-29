@@ -8917,10 +8917,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-smooth-dnd@^0.6.3:
-  version "0.6.3"
-  resolved "https://registry.yarnpkg.com/smooth-dnd/-/smooth-dnd-0.6.3.tgz#e2eb0b6686b030ff8227ce0df9ea3b72b250a7f3"
-  integrity sha512-MT9YZK2+/GOWYLDUUrsaFpQ02DOGVxFRsX006uWdh3k2sZhKajDU6hkufznw3WFR6nO9ZqSfP5n21ekOUORwXg==
+smooth-dnd@0.12.1:
+  version "0.12.1"
+  resolved "https://registry.yarnpkg.com/smooth-dnd/-/smooth-dnd-0.12.1.tgz#cdb44c972355659e32770368b29b6a80e0ed96f1"
+  integrity sha512-Dndj/MOG7VP83mvzfGCLGzV2HuK1lWachMtWl/Iuk6zV7noDycIBnflwaPuDzoaapEl3Pc4+ybJArkkx9sxPZg==
 
 snapdragon-node@^2.0.1:
   version "2.1.1"
@@ -9982,12 +9982,12 @@ vue-runtime-helpers@^1.1.2:
   resolved "https://registry.yarnpkg.com/vue-runtime-helpers/-/vue-runtime-helpers-1.1.2.tgz#446b7b820888ab0c5264d2c3a32468e72e4100f3"
   integrity sha512-pZfGp+PW/IXEOyETE09xQHR1CKkR9HfHZdnMD/FVLUNI+HxYTa82evx5WrF6Kz4s82qtqHvMZ8MZpbk2zT2E1Q==
 
-vue-smooth-dnd@^0.2.1:
-  version "0.2.8"
-  resolved "https://registry.yarnpkg.com/vue-smooth-dnd/-/vue-smooth-dnd-0.2.8.tgz#356a14609dcaf66fc47a6aaf24dfb0710df5ac99"
-  integrity sha512-sJ+ZyjO2V6qbdHNVd8ICj4PCE+Yw4X8A7TehLPLm3HzHb1LmLFLBEelJAiWpijgs0mHC3XVzRqCox5SQsj2vqA==
+vue-smooth-dnd@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/vue-smooth-dnd/-/vue-smooth-dnd-0.8.1.tgz#b1c584cfe49b830a402548b4bf08f00f68f430e5"
+  integrity sha512-eZVVPTwz4A1cs0+CjXx/ihV+gAl3QBoWQnU6+23Gp59t0WBU99z7ducBQ4FvjBamqOlg8SDOE5eFHQedxwB4Wg==
   dependencies:
-    smooth-dnd "^0.6.3"
+    smooth-dnd "0.12.1"
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
