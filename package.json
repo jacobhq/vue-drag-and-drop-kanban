@@ -38,7 +38,7 @@
     "rollup-plugin-buble": "^0.19.8",
     "rollup-plugin-commonjs": "^10.0.1",
     "rollup-plugin-vue": "^5.0.1",
-    "sinon": "^9.0.1",
+    "sinon": "^10.0.0",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
   },
