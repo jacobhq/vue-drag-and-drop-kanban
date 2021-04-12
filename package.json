@@ -33,7 +33,7 @@
     "@vue/cli-plugin-babel": "~4.5.11",
     "@vue/cli-plugin-unit-jest": "~4.5.10",
     "@vue/cli-service": "~4.5.10",
-    "@vue/test-utils": "1.1.2",
+    "@vue/test-utils": "1.1.4",
     "rollup": "^2.36.2",
     "rollup-plugin-buble": "^0.19.8",
     "rollup-plugin-commonjs": "^10.0.1",
